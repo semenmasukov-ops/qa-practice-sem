@@ -1,0 +1,1 @@
+Здесь находится коллекция тестов postman для сайта https://restful-booker.herokuapp.com/
